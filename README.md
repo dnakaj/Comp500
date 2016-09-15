@@ -1,7 +1,7 @@
 # Comp500
 Repository for Comp-500 related code.
 
-### CompileAndRun.py
+## CompileAndRun.py
 #### About
 This script automatically compiles and then runs an input .java file.
 
